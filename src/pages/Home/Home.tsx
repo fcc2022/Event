@@ -134,7 +134,7 @@ const SPEAKERS = [
   },
    {
     name: "Dell Omasaa",
-    imgPath: "speakers/coinex.png",
+    imgPath: "speakers/dell.jpg",
     positions: [
       "COinEx Global Partner - CoinEx",
       

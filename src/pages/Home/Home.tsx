@@ -132,7 +132,14 @@ const SPEAKERS = [
       "Philippines Brand Ambassador - Upstairs NFT Marketplace",
     ],
   },
-  
+   {
+    name: "Dell Omasaa",
+    imgPath: "speakers/coinex.png",
+    positions: [
+      "COinEx Global Partner - CoinEx",
+      
+    ],
+  },
  
 ];
 

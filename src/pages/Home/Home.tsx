@@ -382,6 +382,19 @@ const Home: FC = () => {
               />
             </a>
           </aside>
+           <aside className="flex w-full items-center justify-center">
+            <a
+              href="https://www.coinex.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img
+                className="w-full"
+                src="sponsors/coinex.png"
+                alt="CoinEx"
+              />
+            </a>
+          </aside>
           <aside className="flex w-full items-center justify-center">
             <a
               href="https://firstchoicecoin.info/"
